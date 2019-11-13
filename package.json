@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bighill/twitter-monitor/issues"
   },
-  "homepage": "https://github.com/bighill/twitter-monitor#readme"
+  "homepage": "https://github.com/bighill/twitter-monitor#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twitter": "^1.7.1"
+  }
 }
